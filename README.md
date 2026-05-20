@@ -84,10 +84,10 @@ Les thématiques suivantes sont souvent associées à la prévention des chutes 
 
 Pour approfondir les enjeux de prévention, d’ergonomie et de santé au travail en établissement, il est utile de consulter également des ressources institutionnelles et professionnelles.
 
-- Haute Autorité de Santé : recommandations et outils sur la qualité des soins, la prévention et l’accompagnement des personnes âgées.
-- INRS : ressources sur la prévention des risques professionnels et des troubles musculosquelettiques.
-- Assurance Maladie : informations sur la prévention de l’usure professionnelle et les dispositifs d’aide aux entreprises.
-- Agences régionales de santé : informations sur les politiques de prévention, la qualité des soins et l’accompagnement des établissements médico-sociaux.
+- <a href="https://www.has-sante.fr/">Haute Autorité de Santé</a> : recommandations et outils sur la qualité des soins, la prévention et l’accompagnement des personnes âgées.
+- <a href="https://www.inrs.fr/">INRS</a> : ressources sur la prévention des risques professionnels et des troubles musculosquelettiques.
+- <a href="https://www.ameli.fr/">Assurance Maladie</a> : informations sur la prévention de l’usure professionnelle et les dispositifs d’aide aux entreprises.
+- <a href="https://www.ars.sante.fr/">Agences régionales de santé</a> : informations sur les politiques de prévention, la qualité des soins et l’accompagnement des établissements médico-sociaux.
 
 ## À propos de Domalys
 
